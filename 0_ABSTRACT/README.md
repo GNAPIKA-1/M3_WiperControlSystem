@@ -14,7 +14,7 @@ In this project, we are enhancing the speed and frequency rate of Wiper and ensu
 - ***Wiper OFF: Wiper is ON:*** The LED glow pattern stops on the 4th press; the wiper action starts next press onwards as mentioned in step 2
 - ***Ignition Key Position at Lock***: The Red LED is OFF, if the user button is pressed and held for 2 secs
 #### Different States of Mode:
-| MODES  | CONDITIONS |
+| MODES  | CONDITION |
 | ------------- | ------------- |
 | MODE 1  |  Red LED is ON |
 | MODE 2  |  Blue, Green and Orange LEDs ON at 1Hz  |
