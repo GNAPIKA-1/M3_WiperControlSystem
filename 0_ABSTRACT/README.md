@@ -9,7 +9,7 @@ In this project, a high-performance **Arm® Cortex®-M4 32-bit RISC core**, STM3
 ### Working:
 In this project, we are enhancing the speed and frequency rate of Wiper and ensuring it in the correct position, so that Driver, catches the view of sight perfectly.Here, the LEDs of STM32F407VG Microcontroller are considered as Position of Wiper.Blue, Green and Orange are the LEDs.Alternately, the rate of frequency is taken from ON and OFF process to set frequency.When the PUSH Button is clicked Red LED will be ON.
 #### Scenario:
-- Ignition Key Position at ACC: The Red LED is ON, if the user button is pressed and held for 2 secs
-[^2]: Wiper ON: Wiper is OFF: On press of the user input, Blue, Green and Orange LEDs come ON one at a time with the set frequency, The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz
-[^3]: Wiper OFF: Wiper is ON: The LED glow pattern stops on the 4th press; the wiper action starts next press onwards as mentioned in step 2
-[^1]: Ignition Key Position at Lock: The Red LED is OFF, if the user button is pressed and held for 2 secs
+- ***Ignition Key Position at ACC***: The Red LED is ON, if the user button is pressed and held for 2 secs
+- ***Wiper ON: Wiper is OFF***: On press of the user input, Blue, Green and Orange LEDs come ON one at a time with the set frequency, The frequency changes on every alternate key press, 3 frequency levels with 1, 4 and 8 Hz
+- ***Wiper OFF: Wiper is ON:*** The LED glow pattern stops on the 4th press; the wiper action starts next press onwards as mentioned in step 2
+- ***Ignition Key Position at Lock***: The Red LED is OFF, if the user button is pressed and held for 2 secs
