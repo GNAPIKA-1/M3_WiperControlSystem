@@ -21,4 +21,5 @@ In this project, we are enhancing the speed and frequency rate of Wiper and ensu
 | MODE 3  |  Blue, Green and Orange LEDs ON at 4Hz   |
 | MODE 4  |  Blue, Green and Orange LEDs ON at 8Hz   |
 | MODE 5  |  Red LED is OFF |
+
 Therefore, in this way, by considering different conditions,speed and frequency set, we need to complile a code that runs Wiper(LEDs) by an user interference and must positioned at initiatial state at the end.
