@@ -1,5 +1,6 @@
 # COMPONENT
 ***STM32F407VG MICROCONTROLLER BOARD***
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ## Description
 * The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz.
 *  The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. 
@@ -8,7 +9,10 @@
 
 
 # WORKING PRINCIPLE
+![work](https://user-images.githubusercontent.com/94955036/168655361-950b9164-23a7-47c9-939b-50ecc89e0a71.png)
+
 *The blinking of TM32F407VG Microcontroller LED's are considered as position of Wiper of an Automobile.If the push button is long pressed for 2sec , the first LED (red) will turn on. Where, the engine starts.Pressing the push button again, the LEDS,i.e;second led (blue) will turn on and off, the third led (green) will turn on and off,then,the fourth led (orange) will turn on and off, moving at a desired rate by blinking away the LED's.Later, clicking, next time the button, the blue, green and orange LEDs will blink fast at other frequency.Last,the microcontroller (vehicle) is turned off after the long press for 2sec.*
+
 
 # 4W's & 1H
  **What**  : Automatic Wiper Control System using the microcontroller STM32F407VG .
@@ -43,21 +47,23 @@
 
 ### STM32 IDE:
 * STMicroelectronics' STM32 family of 32-bit ARM Cortex-M core-based microcontrollers is supported by a wide range of software integrated development environments (IDEs).
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ### QEMU:
 * Qemu is a machine emulator that can run operating systems and programs for one machine on a different machine.
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ## Xpack Packages :
 
 ### Windows Build Tools
 * The xPack Windows Build Tools is a standalone Windows binary distribution of GNU make and a few of other tools required by the Eclipse Embedded CDT (formerly GNU MCU/ARM Eclipse) project, but the binaries can also be used in generic build environments.
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 ### OpenOCD 
 * Open On-Chip Debugger (OpenOCD) is a free, open-source project that aims to provide debugging, in-system programming, and boundary scan using a debug adapter. 
 * The adapter is a hardware module that provides the right signals for the target to understand.
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 ### QEMU 
 * The xPack QEMU Arm is a standalone cross-platform binary distribution of QEMU, with several extensions for Arm Cortex-M devices.
-
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
 
 # FEATURES OF STM32F407VG MICROCONTROLLER
 * Memories
