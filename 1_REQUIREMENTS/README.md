@@ -29,10 +29,11 @@
 
 # FEATURES OF STM32F407VG MICROCONTROLLER
 * Memories
-> Up to 1 Mbyte of Flash memory.
-> Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
-> 512 bytes of OTP memory.
-> Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
+>Up to 1 Mbyte of Flash memory.
+>Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
+>512 bytes of OTP memory.
+>Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories. 
+
 [^2]: Clock, reset and supply management
 * 1.8 V to 3.6 V application supply and I/Os
 * POR, PDR, PVD and BOR
