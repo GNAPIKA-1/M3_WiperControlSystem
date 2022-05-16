@@ -1,4 +1,9 @@
 # OUTPUTS
+# Output Video
+
+
+https://user-images.githubusercontent.com/94955036/168659743-879f6863-2014-4657-981f-2e18d0011df7.mp4
+
 ## ARM MICRONTROLLER
 ![ARM MICRONTROLLER](https://user-images.githubusercontent.com/94955036/168513704-ea16ca5e-e7d4-4259-b545-e5509c1b285b.png)
 
@@ -19,8 +24,4 @@ When the egine is in on state, then will be seeing Red LED, as shown in figure, 
 ![MEDIUM SPEED](https://user-images.githubusercontent.com/94955036/168513749-bec8cd04-e599-4d42-9eb7-6dba5e127686.png)
 
 Depicting the different LED's that run and blink at certain speed with a frequency when user button is pressed.
-# Output Video
-
-
-https://user-images.githubusercontent.com/94955036/168659743-879f6863-2014-4657-981f-2e18d0011df7.mp4
 
