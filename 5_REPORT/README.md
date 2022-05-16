@@ -25,6 +25,8 @@ In this project, we are enhancing the speed and frequency rate of Wiper and ensu
 
 Therefore, in this way, by considering different conditions,speed and frequency set, we need to complile a code that runs Wiper(LEDs) by an user interference and must positioned at initiatial state at the end.
 ## Structure:
+### COMPONENT
+***STM32F407VG MICROCONTROLLER BOARD***
 ![This is an image](https://robu.in/wp-content/uploads/2018/07/STM32F407-Discovery-Kit-for-STM32F407Robu-2.jpg)
 ## Software Used:
 **STM32 IDE** -STMicroelectronics' STM32 family of 32-bit ARM Cortex-M core-based microcontrollers is supported by a wide range of software integrated development environments (IDEs) with C, C++, Pascal and JAVA support and debuggers from STMicroelectronics, allowing to configure and initialize the MCU or monitor its behavior in run time.
