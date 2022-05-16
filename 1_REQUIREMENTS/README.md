@@ -2,6 +2,12 @@
 # WORKING PRINCIPLE
 *The blinking of TM32F407VG Microcontroller LED's are considered as position of Wiper of an Automobile.If the push button is long pressed for 2sec , the first LED (red) will turn on. Where, the engine starts.Pressing the push button again, the LEDS,i.e;second led (blue) will turn on and off, the third led (green) will turn on and off,then,the fourth led (orange) will turn on and off, moving at a desired rate by blinking away the LED's.Later, clicking, next time the button, the blue, green and orange LEDs will blink fast at other frequency.Last,the microcontroller (vehicle) is turned off after the long press for 2sec.*
 
+# 4W's & 1H
+ **What**  : Automatic Wiper Control System using the microcontroller STM32F407VG .
+ **When**  : When the visibility of the road is compromised due to rain, snow, dust.
+ **Where** : On the windshield of the vehicle.
+ **Why**   : To improve the visibility of the road, to prevent accidents and to ensure safe travel.
+ **How**   : By designing an embedded system controller to control the wiper arm action according to severity of conditions without human intervention.
 # SWOT ANALYSIS
 ## STRENGTH
 * Less Cost.
@@ -21,12 +27,7 @@
 * not fireproof.
 * No validity.
 * Economical Crisis.
-# 4W's & 1H
-* **What**  : Automatic Wiper Control System using the microcontroller STM32F407VG .
-* **When**  : When the visibility of the road is compromised due to rain, snow, dust.
-* **Where** : On the windshield of the vehicle.
-* **Why**   : To improve the visibility of the road, to prevent accidents and to ensure safe travel.
-* **How**   : By designing an embedded system controller to control the wiper arm action according to severity of conditions without human intervention.
+
 
 # COMPONENT
 ***STM32F407VG MICROCONTROLLER BOARD***
