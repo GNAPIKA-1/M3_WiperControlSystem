@@ -1,5 +1,5 @@
 
-# COMPONENT
+# COMPONENTS
 ***STM32F407VG MICROCONTROLLER BOARD***
 ## Description
 * The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz.
@@ -9,40 +9,41 @@
 
 # SOFTWARE REQUIREMENTS
 
-* STM32 IDE
-* QEMU
-
+### STM32 IDE:
+* STMicroelectronics' STM32 family of 32-bit ARM Cortex-M core-based microcontrollers is supported by a wide range of software integrated development environments (IDEs).
+### QEMU:
+* Qemu is a machine emulator that can run operating systems and programs for one machine on a different machine.
 
 ## Xpack Packages :
 
-### Windows Build Tools: 
+### Windows Build Tools
 * The xPack Windows Build Tools is a standalone Windows binary distribution of GNU make and a few of other tools required by the Eclipse Embedded CDT (formerly GNU MCU/ARM Eclipse) project, but the binaries can also be used in generic build environments.
-### OpenOCD :
+### OpenOCD 
 * Open On-Chip Debugger (OpenOCD) is a free, open-source project that aims to provide debugging, in-system programming, and boundary scan using a debug adapter. 
 * The adapter is a hardware module that provides the right signals for the target to understand.
 
 
-### QEMU :
+### QEMU 
 * The xPack QEMU Arm is a standalone cross-platform binary distribution of QEMU, with several extensions for Arm Cortex-M devices.
 
 
 # FEATURES OF STM32F407VG MICROCONTROLLER
-### Memories
+***[^1]: Memories
 * Up to 1 Mbyte of Flash memory.
 * Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
 * 512 bytes of OTP memory.
 * Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories.
-### Clock, reset and supply management
+***[^2]: Clock, reset and supply management
 * 1.8 V to 3.6 V application supply and I/Os
 * POR, PDR, PVD and BOR
 * 4-to-26 MHz crystal oscillator
 * Internal 16 MHz factory-trimmed RC (1% accuracy)
 * 32 kHz oscillator for RTC with calibration
 * Internal 32 kHz RC with calibration
-### Low-power operation
-### 3×12-bit, 2.4 MSPS A/D converters: up to 24 channels
-### 2×12-bit D/A converters
-### Upto 17 timers,etc
+***[^3]: Low-power operation
+*[^4]: 3×12-bit, 2.4 MSPS A/D converters: up to 24 channels
+*[^5]: 2×12-bit D/A converters
+*[^6]: Upto 17 timers,etc
 
 # WORKING PRINCIPLE
 * Assume that the automobile is the microcontroller. 
