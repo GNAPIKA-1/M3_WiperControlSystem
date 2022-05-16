@@ -1,4 +1,33 @@
 
+# WORKING PRINCIPLE
+*The blinking of TM32F407VG Microcontroller LED's are considered as position of Wiper of an Automobile.If the push button is long pressed for 2sec , the first LED (red) will turn on. Where, the engine starts.Pressing the push button again, the LEDS,i.e;second led (blue) will turn on and off, the third led (green) will turn on and off,then,the fourth led (orange) will turn on and off, moving at a desired rate by blinking away the LED's.Later, clicking, next time the button, the blue, green and orange LEDs will blink fast at other frequency.Last,the microcontroller (vehicle) is turned off after the long press for 2sec.*
+
+# SWOT ANALYSIS
+## STRENGTH
+* Less Cost.
+* User friendly.
+* Standardized.
+* Mass production.
+## WEAKNESS
+* Sturctural mass.
+* Huge transport cost.
+* Not flexible.
+## OPPORTUNITIES
+* Emergence of new innovations.
+* Industrial growth through lead in technology.
+* Demand and Supply.
+## THREATS
+* not waterproof.
+* not fireproof.
+* No validity.
+* Economical Crisis.
+# 4W's & 1H
+* **What**  : Automatic Wiper Control System using the microcontroller STM32F407VG .
+* **When**  : When the visibility of the road is compromised due to rain, snow, dust.
+* **Where** : On the windshield of the vehicle.
+* **Why**   : To improve the visibility of the road, to prevent accidents and to ensure safe travel.
+* **How**   : By designing an embedded system controller to control the wiper arm action according to severity of conditions without human intervention.
+
 # COMPONENT
 ***STM32F407VG MICROCONTROLLER BOARD***
 ## Description
@@ -45,48 +74,6 @@
 * 3×12-bit, 2.4 MSPS A/D converters: up to 24 channels
 * 2×12-bit D/A converters
 * Upto 17 timers,etc
-
-# WORKING PRINCIPLE
-* Assume that the automobile is the microcontroller. 
-* If the push button is long pressed , the first led (red) will turn on. Hence, the engine starts.
-* Clicking the push button again, the wiper will start, and the second led (blue) will turn on, moving at a desired rate. 
-* If the button is clicked again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. 
-* With the fourth press,  the fourth led (orange) will turn on, and the wiper speed will be increased in accordance with the previous one. 
-* The microcontroller (vehicle) is turned off after the fifth press which would a long press.
-
-
-# SWOT ANALYSIS
-## STRENGTH
-* Low Budget
-* Easy usage
-* Good Reputation
-* Big Influence on the market
-## WEAKNESS
-* Structural Inertia
-* High Transaction Cost
-* Weak Focus on Process Innovations
-## OPPORTUNITIES
-* Emerging New Markets
-* Technological Development
-* Demand for Saving Equipments
-## THREATS
-* Low Bargaining Power Buyers
-* Ethical Pressure
-* Highly Regulated Industry
-* Economical Crisis
-# 4W's & 1H
-### WHAT
-* The operational speed of a vehicle wiper is controlled by a wiper speed control mechanism based on rain conditions. To generate, the control system incorporates a rain sensor that detects rain conditions. The amplitude of an analogue signal depends on the detected rain conditions.
-### WHY
-* To keep the windscreen clean enough to give adequate view at all times. 
-### WHEN
-* The windshield wipers remove rain and snow from the windshield, while the headlights improve visibility at night.
-### WHO
-* A wiper speed control system for an automobile manages the wiper's functioning speed in response to weather conditions which is helpful for the drivers.
-### HOW
-* You can adjust the speed of the car wiper system according to the rainfall.
-### WHERE
-* In general, car wipers are controlled by the stalk on the right side of the steering wheel.
 
 
 # HIGH LEVEL REQUIREMENTS
