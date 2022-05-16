@@ -25,7 +25,9 @@ In this project, we are enhancing the speed and frequency rate of Wiper and ensu
 
 ### COMPONENT
 ***STM32F407VG MICROCONTROLLER BOARD***
+
 ![This is an image](https://robu.in/wp-content/uploads/2018/07/STM32F407-Discovery-Kit-for-STM32F407Robu-2.jpg)
+
 >The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz.
 The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. 
 It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. 
@@ -76,5 +78,4 @@ https://user-images.githubusercontent.com/94955036/168659743-879f6863-2014-4657-
 ***From above output video, we can see, a Red LED, will be ON, i.e; after pressing user button long, for 2sec, which indicates the start of engine, where Wiper gets ready from still state to stimulate. Then, pressing user button again, leads to run of Blue, Green and Orange LED's, blinking one by one at certain frequency, for every time button is pressed, it increases the speed of blinking rate from start position to end, going from Blue LED to Orange LED and vice-versa, crossing Green LED, where this LEDs indicates, position of Wiper that is moving at different scenario, when user button is preesed again and again.To stop, and bring the Wiper at initial state, long press of user button, makes control system in OFF state.***
 
 ![Code Score](https://api.codiga.io/project/33440/score/svg)
-
 ![Code Grade](https://api.codiga.io/project/33440/status/svg)
