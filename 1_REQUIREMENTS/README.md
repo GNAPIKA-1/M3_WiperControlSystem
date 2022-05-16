@@ -102,4 +102,4 @@
 |ID|DESCRIPTION|STATUS|
 |:--|:----------|:-----|
 |LLRQ1|Push Button|IMPLEMENTED|
-|LLRQ2|Red,Green,Blue,Orange Leds|IMPLEMENTED|
+|LLRQ2|Red,Green,Blue,Orange Leds|IMPLEMENTED| 
