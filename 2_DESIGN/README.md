@@ -1,3 +1,4 @@
+# DESIGNS
 # BLOCK DIAGRAM
 ![BLOCK DIAGRAM](https://user-images.githubusercontent.com/94955036/168512298-81fc8a9d-74ba-424b-9510-a5de305e2701.png)
 # CLASS DIAGRAM
