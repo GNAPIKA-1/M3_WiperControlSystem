@@ -1,3 +1,11 @@
+# COMPONENT
+***STM32F407VG MICROCONTROLLER BOARD***
+## Description
+* The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz.
+*  The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. 
+*  It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. 
+*  The STM32F405xx and STM32F407xx family incorporates high-speed embedded system.
+
 
 # WORKING PRINCIPLE
 *The blinking of TM32F407VG Microcontroller LED's are considered as position of Wiper of an Automobile.If the push button is long pressed for 2sec , the first LED (red) will turn on. Where, the engine starts.Pressing the push button again, the LEDS,i.e;second led (blue) will turn on and off, the third led (green) will turn on and off,then,the fourth led (orange) will turn on and off, moving at a desired rate by blinking away the LED's.Later, clicking, next time the button, the blue, green and orange LEDs will blink fast at other frequency.Last,the microcontroller (vehicle) is turned off after the long press for 2sec.*
@@ -29,13 +37,7 @@
 * Economical Crisis.
 
 
-# COMPONENT
-***STM32F407VG MICROCONTROLLER BOARD***
-## Description
-* The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz.
-*  The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. 
-*  It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security. 
-*  The STM32F405xx and STM32F407xx family incorporates high-speed embedded system.
+
 
 # SOFTWARE REQUIREMENTS
 
