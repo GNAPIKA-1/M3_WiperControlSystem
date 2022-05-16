@@ -34,17 +34,17 @@
 >512 bytes of OTP memory.
 >Flexible static memory controller supporting Compact Flash, SRAM, PSRAM, NOR and NAND memories. 
 
-[^2]: Clock, reset and supply management
-* 1.8 V to 3.6 V application supply and I/Os
-* POR, PDR, PVD and BOR
-* 4-to-26 MHz crystal oscillator
-* Internal 16 MHz factory-trimmed RC (1% accuracy)
-* 32 kHz oscillator for RTC with calibration
-* Internal 32 kHz RC with calibration
-[^3]: Low-power operation
-[^4]: 3×12-bit, 2.4 MSPS A/D converters: up to 24 channels
-[^5]: 2×12-bit D/A converters
-[^6]: Upto 17 timers,etc
+* Clock, reset and supply management
+>1.8 V to 3.6 V application supply and I/Os
+>POR, PDR, PVD and BOR
+>4-to-26 MHz crystal oscillator
+>Internal 16 MHz factory-trimmed RC (1% accuracy)
+>32 kHz oscillator for RTC with calibration
+>Internal 32 kHz RC with calibration
+* Low-power operation
+* 3×12-bit, 2.4 MSPS A/D converters: up to 24 channels
+* 2×12-bit D/A converters
+* Upto 17 timers,etc
 
 # WORKING PRINCIPLE
 * Assume that the automobile is the microcontroller. 
