@@ -1,5 +1,5 @@
 
-# COMPONENTS
+# COMPONENT
 ***STM32F407VG MICROCONTROLLER BOARD***
 ## Description
 * The STM32F405xx and STM32F407xx family is based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 168 MHz.
@@ -28,7 +28,7 @@
 
 
 # FEATURES OF STM32F407VG MICROCONTROLLER
-[^1]: Memories
+[^1] : Memories
 * Up to 1 Mbyte of Flash memory.
 * Up to 192+4 Kbytes of SRAM including 64-Kbyte of CCM (core coupled memory) data RAM.
 * 512 bytes of OTP memory.
