@@ -7,3 +7,7 @@ A high-performance Arm® Cortex®-M4 32-bit RISC core, STM32F407VG Microcontroll
 * If the button is clicked again, the third led (green) will turn on, and the wiper's speed will be increased in comparison to the previous one. 
 * With the fourth press,  the fourth led (orange) will turn on, and the wiper speed will be increased in accordance with the previous one. 
 * The microcontroller (vehicle) is turned off after the fifth press which would a long press.
+
+![Code Score](https://api.codiga.io/project/33440/score/svg)
+
+![Code Grade](https://api.codiga.io/project/33440/status/svg)
