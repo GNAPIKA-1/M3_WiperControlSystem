@@ -11,7 +11,7 @@ When engine is in off state, there will be no LED, that on.
 ![ENGINE ON](https://user-images.githubusercontent.com/94955036/168513732-b163d685-b175-40f1-8f7b-ab8298f264c3.png)
 
 When the egine is in on state, then will be seeing Red LED, as shown in figure, which symbolises the start of engine motor.
-## Blue, Green and Orange LEDs
+## Orange, Blue and Green LEDs
 ![HIGH SPEED](https://user-images.githubusercontent.com/94955036/168513737-d3e9d3eb-146e-4286-8e5b-4c5c9a290bcb.png)
 ![LOW SPEED](https://user-images.githubusercontent.com/94955036/168513741-bfad35e2-8606-46b2-96d9-af06924fa847.png)
 ![MEDIUM SPEED](https://user-images.githubusercontent.com/94955036/168513749-bec8cd04-e599-4d42-9eb7-6dba5e127686.png)
